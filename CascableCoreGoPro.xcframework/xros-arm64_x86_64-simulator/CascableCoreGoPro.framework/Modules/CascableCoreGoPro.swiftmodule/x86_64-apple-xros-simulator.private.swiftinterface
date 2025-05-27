@@ -1,0 +1,59 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-module-flags: -target x86_64-apple-xros1.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CascableCoreGoPro
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
+import SystemConfiguration.CaptiveNetwork
+import CascableCore
+import CoreBluetooth
+import Foundation
+import MobileCoreServices
+import NetworkExtension
+import Swift
+import SystemConfiguration
+import UIKit
+import UniformTypeIdentifiers
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+extension NetworkExtension.NEHotspotConfigurationError : @retroactive Swift.Error {
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+}
+extension CascableCore.CascableCoreErrorCode : @retroactive Swift.Error {
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+}
+public let GoProCameraFamily: Swift.Int
+public let GoProPluginIdentifier: Swift.String
+@_inheritsConvenienceInitializers @objc(CBLGoProCameraEntryPoint) public class GoProCameraEntryPoint : ObjectiveC.NSObject, CascableCore.PluginEntryPoint {
+  @objc override dynamic public init()
+  @objc public class var pluginIdentifier: Swift.String {
+    @objc get
+  }
+  @objc public class var providedCameraFamily: CascableCore.CameraFamily {
+    @objc get
+  }
+  @objc public func register(with pluginRegistration: any CascableCore.PluginRegistration)
+  @objc deinit
+}
+extension CoreBluetooth.CBManagerState : @retroactive Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
+public struct GoProCameraConfiguration {
+  public var deferWiFiNetworkJoiningToClient: Swift.Bool
+  public func apply()
+}
+extension CascableCoreGoPro.GoProCameraConfiguration {
+  public static var `default`: CascableCoreGoPro.GoProCameraConfiguration {
+    get
+  }
+}
+extension CascableCore.PropertyIdentifier : @retroactive Swift.CaseIterable {
+  public static var allCases: [CascableCore.PropertyIdentifier]
+  public typealias AllCases = [CascableCore.PropertyIdentifier]
+}
+public typealias PlatformImageType = UIKit.UIImage

@@ -1,0 +1,4 @@
+framework module CascableCoreGoPro {
+  header "CascableCoreGoPro-Swift.h"
+  requires objc
+}

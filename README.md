@@ -4,6 +4,8 @@ This plugin adds support for GoPro cameras via USB and Bluetooth/WiFi, from the 
 
 **Important:** Make sure your GoPro camera is updated to the latest available firmware version. Some cameras have bugs in older firmware versions that will prevent the camera working with CascableCore.
 
+**Important:** The CascableCore GoPro Plugin requires CascableCore 16 or higher to operate.
+
 ### 🚨 Beta Notes 🚨
 
 This plugin is currently in early beta. Please give feedback for any bugs and feature requests before the target final release date in June.

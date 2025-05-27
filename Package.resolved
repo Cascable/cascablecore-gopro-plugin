@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cascablecore-distribution",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Cascable/cascablecore-distribution",
+      "state" : {
+        "revision" : "38c43948b81d7333b5fc40a82288f8b82a3e129f",
+        "version" : "16.0.0-beta.1"
+      }
+    }
+  ],
+  "version" : 2
+}
