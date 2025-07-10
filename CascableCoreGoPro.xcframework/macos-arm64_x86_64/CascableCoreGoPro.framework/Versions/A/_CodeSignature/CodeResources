@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		4/QOP9OXmW4TYz7Y6Yjg6xmi2qY=
+		hIMm/MF4alg6EBw/qEMKyJqxUG4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,91 +15,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			93LmbJ/okZK7cO8f4N7r9hdotXlQx9G2ZdACL5vhmws=
+			pd6yNp9sCwOW3mhSo9RU3NIq4NQ+GHh6DJPaSc1DgVg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WIm8cQl2ugfm3TFQc00GeYjjlsrLSj1uMFOH0Vh4IMI=
+			Jr3GfdTUiOSBW820NAH2Zm9T3qBdL8P5WYbscJ+gxN8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5hYpfc/CFG4UQa0nm/a+SYtxtshK1wHy3gVyHxgWRFw=
+			EYZtEOziR2kucuzPKrmMa0aKLR6bi8uYkm5NtkP4L1Q=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdJQWsUDYuMzeKh2ma1a1yE/GtSVzYruKxe+GkRpotg=
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dlO8DgADhZO5j/YQnkXxSrPz5aJEwExUHEqqj75QQkE=
+			bkpRNVY/9zV1LBgAwa38jkbUhHbEI1C+CjjNAmSklgQ=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wURxyaT1SkayYdg9wl6uiESbNwri8yDpH2lC1O2hKxg=
+			4+2xOJUWy2C6N0+HwkFeiGGOtCCtUCW2x3Aqxylmogo=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dlO8DgADhZO5j/YQnkXxSrPz5aJEwExUHEqqj75QQkE=
+			bkpRNVY/9zV1LBgAwa38jkbUhHbEI1C+CjjNAmSklgQ=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BH2mQ1N5uChZH9anuCobvB3iEsu2QWGp8UTS4r5Gj7I=
+			olevBSYPFmscXC1E0xkFQwkK0Oc8iWdmsjFXuSHLA6s=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdJQWsUDYuMzeKh2ma1a1yE/GtSVzYruKxe+GkRpotg=
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			250ZOgAufEWyQc1fk649q+ftuYQwgtW0mL9qoCyi7Rc=
+			60fFtO2QeY0qyXeQNNyDaWnB1P4UEP6MQxEyPv/+42E=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZM92MWjAGzZRK/IZEzig2MmLC95HTKpti8ZEBaSo2c=
+			UFrZFg7LyIncgvd9TApXUMyJsJEiISLhEBdgFDZ2cdg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			250ZOgAufEWyQc1fk649q+ftuYQwgtW0mL9qoCyi7Rc=
+			60fFtO2QeY0qyXeQNNyDaWnB1P4UEP6MQxEyPv/+42E=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+TIJKSDQepHl90fog9BQmMOblZjUxLauie5PZcyg72s=
+			v4/m0aMCYhjRkbiK6GN4sICmp3biVHru+JLYPy7BBdA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+wDxX+zYbdvQLGC1gpZaZUHlGwnnvVfGW/b+2d9XRQ=
+			hldIDsF2QKMODSRa/Rk36xWYzFaGJK4B7NMX157ARM8=
 			</data>
 		</dict>
 	</dict>

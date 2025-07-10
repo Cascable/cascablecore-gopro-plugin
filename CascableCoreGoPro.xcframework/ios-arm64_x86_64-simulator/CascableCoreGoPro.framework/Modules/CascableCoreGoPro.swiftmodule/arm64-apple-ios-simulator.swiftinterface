@@ -1,30 +1,53 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CascableCoreGoPro
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name CascableCoreGoPro
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import SystemConfiguration.CaptiveNetwork
 import CascableCore
+// (Private module import removed by CascableCore build script)
+import Combine
 import CoreBluetooth
+import CoreImage
+import CoreMedia
+import CoreVideo
 import Foundation
 import MobileCoreServices
+import Network
 import NetworkExtension
 import Swift
 import SystemConfiguration
 import UIKit
 import UniformTypeIdentifiers
+import VideoToolbox
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+#if compiler(>=5.3) && $RetroactiveAttribute
 extension NetworkExtension.NEHotspotConfigurationError : @retroactive Swift.Error {
   public static var _nsErrorDomain: Swift.String {
     get
   }
 }
+#else
+extension NetworkExtension.NEHotspotConfigurationError : Swift.Error {
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+}
+#endif
+#if compiler(>=5.3) && $RetroactiveAttribute
 extension CascableCore.CascableCoreErrorCode : @retroactive Swift.Error {
   public static var _nsErrorDomain: Swift.String {
     get
   }
 }
+#else
+extension CascableCore.CascableCoreErrorCode : Swift.Error {
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+}
+#endif
 public let GoProCameraFamily: Swift.Int
 public let GoProPluginIdentifier: Swift.String
 @_inheritsConvenienceInitializers @objc(CBLGoProCameraEntryPoint) public class GoProCameraEntryPoint : ObjectiveC.NSObject, CascableCore.PluginEntryPoint {
@@ -38,11 +61,19 @@ public let GoProPluginIdentifier: Swift.String
   @objc public func register(with pluginRegistration: any CascableCore.PluginRegistration)
   @objc deinit
 }
+#if compiler(>=5.3) && $RetroactiveAttribute
 extension CoreBluetooth.CBManagerState : @retroactive Swift.CustomStringConvertible {
   public var description: Swift.String {
     get
   }
 }
+#else
+extension CoreBluetooth.CBManagerState : Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
+#endif
 public struct GoProCameraConfiguration {
   public var deferWiFiNetworkJoiningToClient: Swift.Bool
   public func apply()
@@ -52,8 +83,15 @@ extension CascableCoreGoPro.GoProCameraConfiguration {
     get
   }
 }
+#if compiler(>=5.3) && $RetroactiveAttribute
 extension CascableCore.PropertyIdentifier : @retroactive Swift.CaseIterable {
   public static var allCases: [CascableCore.PropertyIdentifier]
   public typealias AllCases = [CascableCore.PropertyIdentifier]
 }
+#else
+extension CascableCore.PropertyIdentifier : Swift.CaseIterable {
+  public static var allCases: [CascableCore.PropertyIdentifier]
+  public typealias AllCases = [CascableCore.PropertyIdentifier]
+}
+#endif
 public typealias PlatformImageType = UIKit.UIImage

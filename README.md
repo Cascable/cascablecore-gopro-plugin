@@ -8,17 +8,24 @@ This plugin adds support for GoPro cameras via USB and Bluetooth/WiFi, from the 
 
 ### 🚨 Beta Notes 🚨
 
-This plugin is currently in early beta. Please give feedback for any bugs and feature requests before the target final release date in June.
+This plugin is currently in early beta. Please give feedback for any bugs and feature requests before the target final release date in July.
 
 #### Known Issues
-
-- Live view is not currently implemented. This will be added before the first non-beta release.
 
 - Automatic WiFi network switching on macOS is very unreliable. We recommend instructing the user to switch networks manually on the Mac for now - see "Configuring the GoPro Plugin" below. It's much better on iOS.
 
 - Setting the video quality property may fail for some values.
 
 - The number of available properties is fairly small. We're working on adding more settings.
+
+
+### An Important Note About Live View
+
+GoPro cameras - particularly newer models — deliver their live view via high-resolution, high-framerate video feeds.
+
+CascableCore takes care of this for you. **However**, in the default configuration, the SDK will decode video frames all the way to `NSImage`/`UIImage` objects. This is a heavy operation at the best of times, but a GoPro feed will happily completely max out a CPU core when being decoded into image objects in this way, resulting in poor performance, dropped frames, and high energy usage.
+
+GoPro live view frames are delivered as 24-bit RGB pixel buffers, and we highly recommend turning on the `CBLLiveViewOptionSkipImageDecoding` live view option (or `.skipImageDecoding` if using [CascableCoreSwift](https://github.com/Cascable/cascablecore-swift)) and rendering the live view feed using Metal or some other high-performance pixel buffer renderer. This will provide a much better experience for your users.
 
 
 ### Setting Up Your Project for GoPro Cameras

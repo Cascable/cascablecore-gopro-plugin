@@ -6,59 +6,59 @@
 	<dict>
 		<key>Headers/CascableCoreGoPro-Swift.h</key>
 		<data>
-		xlMQfwRhhXCdK4WkM7KMmH3/goA=
+		KBLBI5SwVOyefhjZt6t1JWe7QTY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		D44IQ02mlRKBGi7fLZwND1sKiNY=
+		W3+Rs97z7Klag1/4jKlb2W/WorM=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		EqOFRCm3ih3K9fpAUN8Cyaf+W1o=
+		8PpJyC5dKaBCZekDb/V/UBhbjz0=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		AfHVEXiziOj2QLmaAdxWGWw9dII=
+		0J98jb6BBHK9wIHY6C2t1YIfEFM=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		WNOYmgDLQmdwud0FPYjFHDbr7SM=
+		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		K6Fa8g9N43y5PeP4IcGcUMR1ACc=
+		h4F4o0cJcvNs9Nun+wmEyo23/E4=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		kNa00wlaOUoWy08AZdFKG1pSGVg=
+		4urMLPMIic44bqACby04KF6SmBI=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		K6Fa8g9N43y5PeP4IcGcUMR1ACc=
+		h4F4o0cJcvNs9Nun+wmEyo23/E4=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		5dZcDRl+neJPfg6BvUApzFpNKlY=
+		4hjiSYysmEEJS5BM/NZbx4fdxYs=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		WNOYmgDLQmdwud0FPYjFHDbr7SM=
+		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		hP0f5G9fTdFTRV5mYWYtoqQSUM4=
+		RoTGB0QSa5pSpk63L6CB2xB0z9g=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		sHmRROYLUIYwsjwjRlQULDYKHI8=
+		Ap3Eqv27ZVDwtOK0pWNAKy1lmWI=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		hP0f5G9fTdFTRV5mYWYtoqQSUM4=
+		RoTGB0QSa5pSpk63L6CB2xB0z9g=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		GSLvsCk5kxEtN5itKzjzXx1kg9Q=
+		y1KbNPW1aWHSjJ/cX4VHe0tD4rc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,91 +71,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			93LmbJ/okZK7cO8f4N7r9hdotXlQx9G2ZdACL5vhmws=
+			8olU4ClR9UyfzKf1UsLDsildQRnsQROenXbecesfk4k=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-xros-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pMdcqyw/moZYbSyiJqKO1WK0ZfKU35Yy1MaJ85kXSBU=
+			/I0x0yCuHrNSaMoW9ASMwYW+HVI9UH7RWXCJpXrZjH4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/INKDFmLr6XThJ/neN2P0NYux5FfvWdIj7gQwy1ajUM=
+			au+R15JuCtJ0HqIXTXyuIcMvez7+q3mKDDkv4TcXB+U=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Ci7e9xvCRZ7vtqVClu6/3emg1eB8UVVEFaNMT1eG5Q=
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			24zob38bsslT+lp/sz6WfvRAvX/VtmsAfpggb9dof8s=
+			tKNI6w8Pku2jtS33LB0OZX5n20JsqfzwM+kt3+Jph0k=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7gzX9w0MZ2/plgGqapYze6HEMmLAeUYYyklJFP9Sqfs=
+			U51YO2Hr2dEZvSt+AQesi/Jg+1cWyvE8408v6vsu/14=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			24zob38bsslT+lp/sz6WfvRAvX/VtmsAfpggb9dof8s=
+			tKNI6w8Pku2jtS33LB0OZX5n20JsqfzwM+kt3+Jph0k=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z2OTHInr+QB2G7r8RZa+U69YFS8KmovaDl5CbH8Ce4g=
+			xKdMa1TsQFafuciHghCAWbryF3q5akuCTNazaPNgmEY=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Ci7e9xvCRZ7vtqVClu6/3emg1eB8UVVEFaNMT1eG5Q=
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qddA+x5ZzyIXxCkQVrvOrlgKpds/g3h2pb2GPTWNWTE=
+			iaJlruSYeo16Dj+sBb7P9plhHYzuhuRcfyDqNDroty8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			77IWWuH4uLaUyA4Lf/bMV6dMXRVPFWtzohiAUdS8HNM=
+			yKNZpC0N8nGMWnB0rlkYaS9Q24+NZhTVIiQkBO6HLkU=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qddA+x5ZzyIXxCkQVrvOrlgKpds/g3h2pb2GPTWNWTE=
+			iaJlruSYeo16Dj+sBb7P9plhHYzuhuRcfyDqNDroty8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VbqbeEadSPRawRW5jXsG21AKqAdViIPLagELtCuVf/A=
+			SakU0Pdg2fBLGtxeIPr+/FmPMflRPwH6SM2T/Ie+yV8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
