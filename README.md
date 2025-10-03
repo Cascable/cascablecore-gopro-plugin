@@ -176,10 +176,6 @@ camera.connect(authenticationRequestCallback: { context in
 })
 ```
 
-    CBLErrorCode = 1029,
-    /** The operation failed because it requires that the application has been granted an authorisation to use location services. */
-    CBLErrorCodeRequiresLocationAuthorization = 1030,
-
 This example implements the situation where we want to present our own custom location permission UI, but want CascableCore to handle connecting to the GoPro's WiFi network for us unless it's impossible to do so. If that's the case, we'll instead present a dialog to the user asking them to connect to the network manually.
 
 ```swift
