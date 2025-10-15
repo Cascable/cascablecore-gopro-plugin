@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nH3OG/I6Rmzbk1dDLWOWKba2U3A=
+		nfP+8bn/JrtzVdgztDwvaFFwsw8=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		QkUMZqrclrmKGe8bzfIVYhPcew4=
+		DV3BRZHnpM1La9GS7OF/UT0wPSg=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ckD/6ga9I6l4EefTZOGU2iYbsGQ=
+		1jc82JF2v18uFmuVJumvOEm7SfU=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TVoZJk/QpR+U56c+2m+qGrcUNo8=
+		laVf69G1GlV34SY5AmKZZDxWbew=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GQfce0nOkIudAUgSfoNlnBwYxQ4=
+		fUzw3sU44iyN9JD3ZyLDPD0U0oo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6ppPSLRBgJDP7LN0Tu54OTAudBfKbHvug7cW9F5tVg4=
+			Oj3XYbsBsMgpnjEcwt+5FxmmFyw3M80cKP6h3OE/6dQ=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mi6ZvMtEA+rizxqRkdLTvJaTPQukaMfx8WV/a/rdzCk=
+			TbVJqGjD+uNv6eK7vvPhuJ2IoGPQpkz+Q+dFGebVzyg=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HIlrRV41nruK/pU5+am35QnQHBZf8vrk8lwG+P4OBV8=
+			xHl0oGeR8mNdQsEDTRTzS4z6yix/4EsG/DB4mxF4WkI=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7iYyI3UaMhMtZYLtm8uaxarPqsAIwgR8OAplSm3/Uc8=
+			cc0qHVMYWmhmN6F0IvVIt6uxwNTaIVLWILoO6dDbU/M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
