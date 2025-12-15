@@ -1,3 +1,14 @@
+# CascableCore GoPro Plugin 1.0.2
+
+### Bug Fixes
+
+- Fixed a bug that'd cause the Bluetooth permission to be prompted for as soon as the plugin was initialised (i.e., at app launch). It's now shown when camera discovery starts. [CORE-1114]
+
+### Other Changes
+
+- The GoPro plugin is now compiled against the CascableCore 17 API/SDK.
+
+
 # CascableCore GoPro Plugin 1.0.1
 
 ### Bug Fixes

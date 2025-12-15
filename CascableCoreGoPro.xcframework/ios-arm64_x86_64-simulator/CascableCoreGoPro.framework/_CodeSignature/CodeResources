@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/CascableCoreGoPro-Swift.h</key>
 		<data>
-		VDPLLVPs10mi31AmH/G9Vu1InxA=
+		r4DSbe9OAKAW+PuCiMT2KErzsII=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nfP+8bn/JrtzVdgztDwvaFFwsw8=
+		td29B1A5lYaDs8ClPDYhbF24zME=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		DV3BRZHnpM1La9GS7OF/UT0wPSg=
+		BCz29hyuqjJmDGNRuTJesHsZpg0=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1jc82JF2v18uFmuVJumvOEm7SfU=
+		gTyNwaFkG9iWGuJfgmc+TVMe6lE=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rQHGN2Zn5VYLvbsD+0+jiuWyiA4=
+		o96gEtFz+vkgciBdVAH2ZdxTAHk=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bsoqxFcG2gw/PqWA1ouLhjBzHAA=
+		NxyMSZrIRTEgu8nP6CaZrhYunGs=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rQHGN2Zn5VYLvbsD+0+jiuWyiA4=
+		o96gEtFz+vkgciBdVAH2ZdxTAHk=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		laVf69G1GlV34SY5AmKZZDxWbew=
+		EgT5ZFINKl5w9ZSXAtwOmF2Eiuk=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		oHvlqPFsNGYa3DBSY/UG0dttCmE=
+		NQLE1+AH9Bas2ZWC6Tqn0ljvdaM=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5GJ8cQpX7mPHvbBCKTuYWmQAH4o=
+		b+tcMdHvHo30w07t0ADMHoc77N4=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oHvlqPFsNGYa3DBSY/UG0dttCmE=
+		NQLE1+AH9Bas2ZWC6Tqn0ljvdaM=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fUzw3sU44iyN9JD3ZyLDPD0U0oo=
+		di3siezyvy8pwLSM3DzlthqKJPM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,21 +71,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6H9F0DN0hGoJBR3RfafxL22XOtxxwLilfMeZlL5S+g0=
+			GpuT+cL70upBL7/BYikBoZ8q+QQxO1jG3tVDn/dW89g=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oj3XYbsBsMgpnjEcwt+5FxmmFyw3M80cKP6h3OE/6dQ=
+			bwbclrxYD7MmNTgKdPKsx75qlmvnDnIs67IbvQFCk6Y=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TbVJqGjD+uNv6eK7vvPhuJ2IoGPQpkz+Q+dFGebVzyg=
+			vWsSle3NEY9vOLoi3jVZkEhrjl14bx8CnOh4z7+cE80=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -99,28 +99,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ON8yJEMxd9nKWFoq+HMQENjfPMxXnyXopk19r7q7ig=
+			ZGCPH0WFKxBgZrr8BZGYZe6JLWv9XGURsREI3dRT0gE=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5ryXt0XXmrbmqKLQPoBK3mjvWnqLJCcPPRAEIZXxFY=
+			y0H5LIRapkP21iNcsLhzdx5JzEvtTZ4s4WTa8kxiuX4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ON8yJEMxd9nKWFoq+HMQENjfPMxXnyXopk19r7q7ig=
+			ZGCPH0WFKxBgZrr8BZGYZe6JLWv9XGURsREI3dRT0gE=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xHl0oGeR8mNdQsEDTRTzS4z6yix/4EsG/DB4mxF4WkI=
+			cGGc5MBPSqi5UvT3hUgMA286TyLCa+liJU+2VASPhsM=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -134,28 +134,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XqXHSnqUym4/xefGOmiXjg0YfEPvCgrs8xYp3wUyYMM=
+			FpCcpdIDN7ol0p8LI5aoJzi9hpWwxwXpcNuOr1lMGF4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZUUMkqR5hU02glCVEb2qWuTDnpfLdR9Olj/z4z7aBtg=
+			s5+K9xNxwY96OABoBzjnZl/ZtB9k5iTRRr9He21Ieek=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XqXHSnqUym4/xefGOmiXjg0YfEPvCgrs8xYp3wUyYMM=
+			FpCcpdIDN7ol0p8LI5aoJzi9hpWwxwXpcNuOr1lMGF4=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cc0qHVMYWmhmN6F0IvVIt6uxwNTaIVLWILoO6dDbU/M=
+			Nh6LdTBdYufTDgMALXpUw+gM8UES76WhncSfrST1GkE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
