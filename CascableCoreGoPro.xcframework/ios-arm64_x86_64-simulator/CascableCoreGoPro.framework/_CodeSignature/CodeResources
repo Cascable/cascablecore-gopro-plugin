@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		td29B1A5lYaDs8ClPDYhbF24zME=
+		OBJCRLwNzMcPTbxUYwZr+RZJILo=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		BCz29hyuqjJmDGNRuTJesHsZpg0=
+		HwbwC2bDGPk8By9nlUwbTEhGOa4=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		gTyNwaFkG9iWGuJfgmc+TVMe6lE=
+		c+tjoSbfbf3keJcMp6CC2c9cZDs=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EgT5ZFINKl5w9ZSXAtwOmF2Eiuk=
+		owG4ivrHLAqdVcgS/3Ag42Dh5iY=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		di3siezyvy8pwLSM3DzlthqKJPM=
+		fQfl5K202cZvV+4d7sQ4pc+7JNU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bwbclrxYD7MmNTgKdPKsx75qlmvnDnIs67IbvQFCk6Y=
+			KFicut9AhbCCxWG7VnmGlG7d0lee7eiPYcaWFb57hp8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWsSle3NEY9vOLoi3jVZkEhrjl14bx8CnOh4z7+cE80=
+			lDtcf8aWhxb3SKmoWRhjLTxx1bjdjAjjDznNveb77eE=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cGGc5MBPSqi5UvT3hUgMA286TyLCa+liJU+2VASPhsM=
+			OWHvDrMbrFhHdBOgkQzckIYlBIqIBPxUDVPXL8gQklY=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nh6LdTBdYufTDgMALXpUw+gM8UES76WhncSfrST1GkE=
+			etmcj6BpqWXd83RkRoskjlPJjrDiDFlFkoILADQ9OsY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

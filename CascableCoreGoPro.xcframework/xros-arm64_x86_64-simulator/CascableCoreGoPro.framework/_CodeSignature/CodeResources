@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+xScGEsj07CZvSF3JT7FlkkQg8M=
+		JpkX2yLSb3wnaty88kE3sdp7K+Y=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/arm64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		NIQ/BrNnMI4qM9xn4cbdj6YN3y4=
+		ppLHlJR5Zq1vUcnm/6s4sKmaV9s=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		RdlIYdTFEOiVqu70l4dFVVpLDfE=
+		oIIQUHSsPTxaMFFSGIT+IH5mzLM=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		s9yEFfuZa8iuT5s9pB2XJCv+CGg=
+		yNBOfhVoikYqe6QSTbwP91OLsu4=
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		AugfIVB/MqCduRiMwyLt4o3tkPo=
+		nTw0GWlU3lj7Aa5ZViVhL0kA7lQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x5l181/BS1/CIImgQ2/d+ouB2aTsUNluqmJNemMhGa0=
+			YYUkUA8+69MtxS71eGTos/9kdxZK+cM5yyhocws0cI8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9j7gzQqWA39KFQn8nbgCG+TcvfipKf95NxTM7PcuMI=
+			jwy8yf99VxYWabY2r0BVxhjbKds1R5+eAqwM9i5xJAU=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xh7Eiek7WJD8KBv+ymSesChG6ES+2X3Pkv4+AVmck9c=
+			I/vQjAuJGBgDjxmRtWX/Qz6X2PCfDEcpBm88lPNzJCo=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QG51k/b07UK+s2jBvdWM1xLAPdAa+2icWtZX+OwWBlo=
+			douw6M5mT0aAlrgUIzjslKpDuZ8UeWnBab7Bo/2g6fU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
