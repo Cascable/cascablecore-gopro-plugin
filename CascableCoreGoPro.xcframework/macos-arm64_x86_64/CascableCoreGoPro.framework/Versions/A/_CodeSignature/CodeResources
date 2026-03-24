@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		l0NO4+TbupF3UZWj0u4T2pac430=
+		M4QYHTdImLBngY6rhGLE2fBc3vw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jXtEe+J5112Z6Kzl0cMvDt8IVdxejvPlsFXiOH9MMrQ=
+			HDUMYA5RszsPdpNs7ZuU0NUNvNr4HBfWvlGgp2JmwJ8=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pv/QCciYA7Gl0LDfpvDC7QiXXvrQiYbGqc+7y4u2SYM=
+			Uj6q+sYYtPzoJNDq0l+9pLFXCEp+UchC7S4gZ69riis=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GZMx8vpjHtqJABWX/kXcZfp9qnx3gfjurtntHqYoTz8=
+			Koho9YjOyY+lKUfTvSSLyHDkCkqTp1RQ/sa8MHSJ1Vs=
 			</data>
 		</dict>
 		<key>Modules/CascableCoreGoPro.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C5qS3pJkFMVEIFzA680uIUxXI28wYQvGGH5D0M3fxoY=
+			wzy+dqu7Ic1zjOWVi0NoaDxkih3Qq+LLbe5egu9hD/M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vDJ4hS91gEPUjGm2AemQj/UsIdJ1C0EJqWccfUufq34=
+			aH1RHDGQ0fSvBy6QYJYDuPDkYflw+/7STaraQJCA5PQ=
 			</data>
 		</dict>
 	</dict>

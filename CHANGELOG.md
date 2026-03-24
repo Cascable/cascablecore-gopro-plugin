@@ -1,3 +1,10 @@
+# CascableCore GoPro Plugin 1.1.1
+
+### Support for CascableCore 17.1.1
+
+This release adds support for (and requires) CascableCore 17.1.1.
+
+
 # CascableCore GoPro Plugin 1.1
 
 ### Support for Online Activation
